@@ -177,3 +177,18 @@
   - Code Pipeline
   - Docker
   - terraform
+
+### 株式会社SAMANSA（2024年1月〜現在）
+- 社員ではなく業務委託での参加です。
+- 短編映画だけを集めたNetflixのようなアプリ「SAMANSA」の運営を行なっている企業です。
+
+- チーム構成
+  - エンジニア若干名
+  - PdM一人
+
+- 使用技術
+  - Ruby on Rails
+  - GraphQL
+  - terraform
+  - Code Pipeline
+  - OpenSearch
