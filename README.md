@@ -38,7 +38,10 @@
 - GitHub Actions
 - Cricle CI
 
-
+### その他の資格など
+- TOEIC Listening & Reading Test 870点
+- 普通自動車免許
+- ITIL 4 ファンデーション
 
 ## 職務経歴
 
