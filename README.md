@@ -42,7 +42,7 @@
 - Cricle CI
 
 ### その他の資格など
-- TOEIC Listening & Reading Test 870点
+- TOEIC IP Listening & Reading Test 880点
 - 普通自動車免許
 - ITIL 4 ファンデーション
 
